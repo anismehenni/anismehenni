@@ -26,13 +26,3 @@ Software Engineering student @ PolyMtl
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
----
-
-## 📊 GitHub Stats:
-![Anis Mehenni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anismehenni&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anismehenni&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=anismehenni&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
